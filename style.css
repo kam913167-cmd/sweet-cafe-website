@@ -1,0 +1,13 @@
+body {
+ font-family: 'Arial', sans-serif;
+ background-color: #f5f5dc;
+ color: #8b4513;
+}
+h1 {
+ text-align: center;
+ color: #d2691e;
+}
+ul {
+ list-style-type: none;
+ padding: 20px;
+}
